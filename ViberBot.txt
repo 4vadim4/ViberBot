@@ -1,0 +1,7 @@
+https://partners.viber.com/account/5379805190736564554/info
+
+Viber Python Bot API:
+https://viber.github.io/docs/api/python-bot-api/
+
+Viber REST API:
+https://viber.github.io/docs/api/rest-bot-api/
